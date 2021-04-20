@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestFulAPI</string>
+    <string name="todo">TODO</string>
+    <string name="title">title : </string>
+    <string name="year">Year : </string>
+    <string name="search">Search</string>
+</resources>
